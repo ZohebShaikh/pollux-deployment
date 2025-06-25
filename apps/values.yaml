@@ -25,6 +25,7 @@ services:
   #     removed: set to true to remove the service from the cluster
   epics-pvcs:
   epics-opis:
+  ckk43848-rabbitmq:
 
 ec_services:
   # Services which have implemented support for an "enabled" parameter.
